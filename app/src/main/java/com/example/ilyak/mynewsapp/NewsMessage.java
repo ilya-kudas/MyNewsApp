@@ -13,4 +13,4 @@ public class NewsMessage {
     public Image Image;
 }
 
-// test
+// test 2

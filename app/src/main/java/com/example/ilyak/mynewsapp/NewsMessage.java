@@ -12,3 +12,5 @@ public class NewsMessage {
     public String Text;
     public Image Image;
 }
+
+// test
